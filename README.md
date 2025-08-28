@@ -60,12 +60,12 @@ The script requires the following packages:
 
 2.  **Make the script executable:**
     ```sh
-    chmod +x custom-KVM-INHIBIT-SHORTCUTS-ENABLE-DISABLE.sh
+    chmod +x custom-KVM-INHIBIT-SHORTCUTS-ENABLE-DISABLE
     ```
 
 3.  **Run the script:**
     ```sh
-    ./custom-KVM-INHIBIT-SHORTCUTS-ENABLE-DISABLE.sh
+    ./custom-KVM-INHIBIT-SHORTCUTS-ENABLE-DISABLE
     ```
 
 4.  **Follow the on-screen menu:**
