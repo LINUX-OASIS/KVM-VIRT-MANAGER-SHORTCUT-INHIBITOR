@@ -2,9 +2,9 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![GitHub issues](https://img.shields.io/github/issues/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR)](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR/issues)
-[![GitHub forks](https://img.shields.io/github/forks/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR)](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR/network/members)
-[![GitHub stars](https://img.shields.io/github/stars/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR)](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR-ENABLER-TOGGLE)](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR-ENABLER-TOGGLE/issues)
+[![GitHub forks](https://img.shields.io/github/forks/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR-ENABLER-TOGGLE)](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR-ENABLER-TOGGLE/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR-ENABLER-TOGGLE)](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR-ENABLER-TOGGLE/stargazers)
 
 A simple yet powerful shell script to toggle keyboard shortcut capture behavior for KVM/Virt-Manager, allowing you to seamlessly switch control between your **Host** and **Guest** operating systems.
 
@@ -54,8 +54,8 @@ The script requires the following packages:
 
 1.  **Clone the repository (or download the script):**
     ```sh
-    git clone https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR.git
-    cd KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR
+    git clone https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR-ENABLER-TOGGLE.git
+    cd KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR-ENABLER-TOGGLE
     ```
 
 2.  **Make the script executable:**
@@ -96,7 +96,7 @@ Distributed under the **GNU General Public License v3.0**. See `LICENSE` file fo
 
 ## 💬 Contributing
 
-[Pull requests](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR/pulls), [issues](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR/issues), and suggestions are warmly welcomed! For major changes, please open an issue first to discuss what you would like to change.
+[Pull requests](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR-ENABLER-TOGGLE/pulls), [issues](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR-ENABLER-TOGGLE/issues), and suggestions are warmly welcomed! For major changes, please open an issue first to discuss what you would like to change.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
@@ -104,10 +104,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## 🌐 Links
 
-*   [**Issues**](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR/issues)
-*   [**Pull Requests**](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR/pulls)
-*   [**Releases**](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR/releases)
-*   [**Wiki**](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR/wiki)
+*   [**Issues**](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR-ENABLER-TOGGLE/issues)
+*   [**Pull Requests**](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR-ENABLER-TOGGLE/pulls)
+*   [**Releases**](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR-ENABLER-TOGGLE/releases)
+*   [**Wiki**](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR-ENABLER-TOGGLE/wiki)
 
 ---
 
