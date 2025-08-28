@@ -96,18 +96,18 @@ Distributed under the **GNU General Public License v3.0**. See `LICENSE` file fo
 
 ## 💬 Contributing
 
-Pull requests, issues, and suggestions are warmly welcomed! For major changes, please open an issue first to discuss what you would like to change.
+[Pull requests](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR/pulls), [issues](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR/issues), and suggestions are warmly welcomed! For major changes, please open an issue first to discuss what you would like to change.
 
-See CONTRIBUTING.md for guidelines.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
 ## 🌐 Links
 
-*   **Issues**
-*   **Pull Requests**
-*   **Releases**
-*   **Wiki**
+*   [**Issues**](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR/issues)
+*   [**Pull Requests**](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR/pulls)
+*   [**Releases**](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR/releases)
+*   [**Wiki**](https://github.com/LINUX-OASIS/KVM-VIRT-MANAGER-SHORTCUT-INHIBITOR/wiki)
 
 ---
 
@@ -115,6 +115,6 @@ See CONTRIBUTING.md for guidelines.
 
 This project is maintained by:
 
-*   **LINUX-OASIS**
+*   [**LINUX-OASIS**](https://github.com/LINUX-OASIS)
 
 ---
